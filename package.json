@@ -1,6 +1,6 @@
 {
   "name": "ig-node",
-  "version": "0.5.8",
+  "version": "0.6.0",
   "description": "Simple Instagram driver for Node.js",
   "keywords": [
     "instagram",
